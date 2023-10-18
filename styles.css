@@ -1,0 +1,48 @@
+.t1{
+    text-align: center;
+}
+body{
+background-color:blanchedalmond;
+}
+.links{
+    text-align: center;
+    border-spacing: 10px;
+}
+#p1{
+    text-align: justify;
+}
+#p2{
+    font-size: 142%;
+}
+#pd2{
+    padding-left: 3%;
+}
+.ft{
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+.tc{
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 135%;
+    padding-left: 2%;
+
+}
+.m2{
+    padding-left: 20px;
+}
+button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding-inline: 10px;
+}
