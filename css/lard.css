@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    text-align: center;
+    padding: 10px 10px 0 10px;
+    font-size: 6vw; /* Adjusts size based on screen width */
+}
+
+.pmain {
+    font-family: Helvetica, Arial;
+    text-align: justify;
+    padding: 20px 20px 10px 20px;
+    text-wrap: balance;
+}
+
+h4 {
+    padding-left: 40px;
+}
+
+div.buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+  
+.header-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.header-bar h1 {
+  margin: 0;
+  text-align: center;
+}
+
+.title-container {
+  flex: 1;
+  text-align: center;
+}
+
+.logo {
+  height: 40px;
+}
+
+footer {
+    display: block;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 1px solid darkslategray;
+    background-color: darkslategray;
+    color: white;
+    float: bottom;
+    min-height: 50px;
+    position: relative;
+}
+img.team-photo {
+  max-width: 30%;
+}
+
